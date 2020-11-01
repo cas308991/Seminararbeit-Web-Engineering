@@ -1,0 +1,19 @@
+.hidden {
+    display: none;
+}
+
+.validation_error {
+    border: 5px solid red;
+}
+
+.dropdown-menu a {
+    cursor: pointer;
+}
+
+h1 {
+    margin-bottom: 1em;
+}
+
+nav {
+    font-size: 1.1em;
+}
